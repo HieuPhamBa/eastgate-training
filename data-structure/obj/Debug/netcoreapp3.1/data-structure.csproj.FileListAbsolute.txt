@@ -1,0 +1,13 @@
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.csprojAssemblyReference.cache
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.csproj.CoreCompileInputs.cache
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.AssemblyInfoInputs.cache
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.AssemblyInfo.cs
+C:\Users\phamb\source\repos\eastergate-training\data-structure\bin\Debug\netcoreapp3.1\data-structure.exe
+C:\Users\phamb\source\repos\eastergate-training\data-structure\bin\Debug\netcoreapp3.1\data-structure.deps.json
+C:\Users\phamb\source\repos\eastergate-training\data-structure\bin\Debug\netcoreapp3.1\data-structure.runtimeconfig.json
+C:\Users\phamb\source\repos\eastergate-training\data-structure\bin\Debug\netcoreapp3.1\data-structure.runtimeconfig.dev.json
+C:\Users\phamb\source\repos\eastergate-training\data-structure\bin\Debug\netcoreapp3.1\data-structure.dll
+C:\Users\phamb\source\repos\eastergate-training\data-structure\bin\Debug\netcoreapp3.1\data-structure.pdb
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.dll
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.pdb
+C:\Users\phamb\source\repos\eastergate-training\data-structure\obj\Debug\netcoreapp3.1\data-structure.genruntimeconfig.cache
